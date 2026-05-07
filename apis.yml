@@ -18,6 +18,12 @@ apis: []
 common:
   - type: Website
     url: https://www.aisin.com/
+  - type: Plans
+    url: plans/aisin-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/aisin-rate-limits.yml
+  - type: FinOps
+    url: finops/aisin-finops.yml
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
