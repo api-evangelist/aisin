@@ -1,0 +1,23 @@
+aid: aisin
+url: https://raw.githubusercontent.com/api-evangelist/aisin/refs/heads/main/apis.yml
+name: Aisin
+x-type: company
+description: >-
+  Aisin Corporation is a Japanese global Tier 1 automotive supplier headquartered in Kariya, Aichi. Part of the Toyota Group, Aisin manufactures automatic transmissions, drivetrain components, body, chassis, and electronics for major automakers.
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Automotive
+  - Tier 1 Supplier
+  - Transmissions
+  - Drivetrain
+  - Toyota Group
+created: '2026-05-06'
+modified: '2026-05-06'
+specificationVersion: '0.19'
+apis: []
+common:
+  - type: Website
+    url: https://www.aisin.com/
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
