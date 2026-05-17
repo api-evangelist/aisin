@@ -1,7 +1,7 @@
 aid: aisin
 url: https://raw.githubusercontent.com/api-evangelist/aisin/refs/heads/main/apis.yml
 name: Aisin
-x-type: company
+kind: company
 description: >-
   Aisin Corporation is a Japanese global Tier 1 automotive supplier headquartered in Kariya, Aichi. Part of the Toyota Group, Aisin manufactures automatic transmissions, drivetrain components, body, chassis, and electronics for major automakers.
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
