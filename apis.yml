@@ -16,6 +16,10 @@ modified: '2026-05-06'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/aisin-domain-security.yml
+  - url: https://www.aisin.com/en/aithink/
+    type: Blog
   - type: LinkedIn
     url: https://www.linkedin.com/company/aisin_2
   - type: Website
