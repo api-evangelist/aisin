@@ -4,6 +4,17 @@ name: Aisin
 kind: company
 description: >-
   Aisin Corporation is a Japanese global Tier 1 automotive supplier headquartered in Kariya, Aichi. Part of the Toyota Group, Aisin manufactures automatic transmissions, drivetrain components, body, chassis, and electronics for major automakers.
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: enterprise
   onboarding: unknown
