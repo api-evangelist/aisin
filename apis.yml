@@ -31,6 +31,12 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/aisin.png
 tags:
   - Automotive
   - Tier 1 Supplier
+  - Transmission
+  - Drivetrain
+  - Toyota Group
+tags_raw:
+  - Automotive
+  - Tier 1 Supplier
   - Transmissions
   - Drivetrain
   - Toyota Group
